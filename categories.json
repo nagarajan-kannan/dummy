@@ -1,0 +1,173 @@
+{
+    "_id": ObjectId("5e99793a0884301703d8ecd8"),
+    "name": "Electronics",
+    "imagePath": "uploads/categories/5e99793a0884301703d8ecd8-thumbnail.jpg",
+    "type": "main-category"
+},
+{
+    "_id": ObjectId("5e997a880884301703d8ed22"),
+    "name": "TV's & Appliances",
+    "imagePath": "uploads/categories/5e997a880884301703d8ed22-thumbnail.jpg",
+    "type": "main-category"
+},
+{
+    "_id": ObjectId("5e997aa30884301703d8ed2b"),
+    "name": "Men",
+    "imagePath": "uploads/categories/5e997aa30884301703d8ed2b-thumbnail.jpg",
+    "type": "main-category"
+},
+{
+    "_id": ObjectId("5e997ab20884301703d8ed32"),
+    "name": "Women",
+    "imagePath": "uploads/categories/5e997ab20884301703d8ed32-thumbnail.jpg",
+    "type": "main-category"
+},
+{
+    "_id": ObjectId("5e997ac50884301703d8ed37"),
+    "name": "Baby & Kids",
+    "imagePath": "uploads/categories/5e997ac50884301703d8ed37-thumbnail.jpg",
+    "type": "main-category"
+},
+{
+    "_id": ObjectId("5e997ad10884301703d8ed3b"),
+    "name": "Home & Furniture",
+    "imagePath": "uploads/categories/5e997ad10884301703d8ed3b-thumbnail.jpg",
+    "type": "main-category"
+},
+{
+    "_id": ObjectId("5e997adc0884301703d8ed41"),
+    "name": "Sports",
+    "imagePath": "uploads/categories/5e997adc0884301703d8ed41-thumbnail.jpg",
+    "type": "main-category"
+},
+{
+    "_id": ObjectId("5eb0f4a00884301703d9814c"),
+    "name": "Smart HD Android TV",
+    "imagePath": "uploads/categories/5eb0f4a00884301703d9814c-thumbnail.jpg",
+    "type": "sub-category",
+    "categoryId": ObjectId("5e997a880884301703d8ed22"),
+    "filterCategoryId": ObjectId("5eb0fc7f0884301703d9833d")
+},
+{
+    "_id": ObjectId("5eb0f4c30884301703d98155"),
+    "name": "4K Ultra HD Android TV",
+    "imagePath": "uploads/categories/5eb0f4c30884301703d98155-thumbnail.jpg",
+    "type": "sub-category",
+    "categoryId": ObjectId("5e997a880884301703d8ed22"),
+    "filterCategoryId": ObjectId("5eb0fc7f0884301703d9833d")
+},
+{
+    "_id": ObjectId("5eb0f53b0884301703d98171"),
+    "name": "Fully Automatic Front Load",
+    "imagePath": "uploads/categories/5eb0f53b0884301703d98171-thumbnail.jpg",
+    "type": "sub-category",
+    "categoryId": ObjectId("5e997a880884301703d8ed22"),
+    "filterCategoryId": ObjectId("5eb0fdb90884301703d9837b")
+},
+{
+    "_id": ObjectId("5eb0f54a0884301703d98179"),
+    "name": "Fully Automatic Top Load",
+    "imagePath": "uploads/categories/5eb0f54a0884301703d98179-thumbnail.jpg",
+    "type": "sub-category",
+    "categoryId": ObjectId("5e997a880884301703d8ed22"),
+    "filterCategoryId": ObjectId("5eb0fdb90884301703d9837b")
+},
+{
+    "_id": ObjectId("5eb0f5550884301703d98180"),
+    "name": "Semi Automatic Top Load",
+    "imagePath": "uploads/categories/5eb0f5550884301703d98180-thumbnail.jpg",
+    "type": "sub-category",
+    "categoryId": ObjectId("5e997a880884301703d8ed22"),
+    "filterCategoryId": ObjectId("5eb0fdb90884301703d9837b")
+},
+{
+    "_id": ObjectId("5eb0f5780884301703d98188"),
+    "name": "Inverter AC",
+    "imagePath": "uploads/categories/5eb0f5780884301703d98188-thumbnail.jpg",
+    "type": "sub-category",
+    "categoryId": ObjectId("5e997a880884301703d8ed22"),
+    "filterCategoryId": ObjectId("5eb0fdca0884301703d98383")
+},
+{
+    "_id": ObjectId("5eb0f5850884301703d9818f"),
+    "name": "Split AC",
+    "imagePath": "uploads/categories/5eb0f5850884301703d9818f-thumbnail.jpg",
+    "type": "sub-category",
+    "categoryId": ObjectId("5e997a880884301703d8ed22"),
+    "filterCategoryId": ObjectId("5eb0fdca0884301703d98383")
+},
+{
+    "_id": ObjectId("5eb0f5900884301703d98196"),
+    "name": "Window AC",
+    "imagePath": "uploads/categories/5eb0f5900884301703d98196-thumbnail.jpg",
+    "type": "sub-category",
+    "categoryId": ObjectId("5e997a880884301703d8ed22"),
+    "filterCategoryId": ObjectId("5eb0fdca0884301703d98383")
+},
+{
+    "_id": ObjectId("5eb0f5db0884301703d981a6"),
+    "name": "Single Door Refrigerator",
+    "imagePath": "uploads/categories/5eb0f5db0884301703d981a6-thumbnail.jpg",
+    "type": "sub-category",
+    "categoryId": ObjectId("5e997a880884301703d8ed22"),
+    "filterCategoryId": ObjectId("5eb0fddb0884301703d98388")
+},
+{
+    "_id": ObjectId("5eb0f5e90884301703d981ab"),
+    "name": "Double Door Refrigerator",
+    "imagePath": "uploads/categories/5eb0f5550884301703d98180-thumbnail.jpg",
+    "type": "sub-category",
+    "categoryId": ObjectId("5e997a880884301703d8ed22"),
+    "filterCategoryId": ObjectId("5eb0fddb0884301703d98388")
+},
+{
+    "_id": ObjectId("5eb0f5f80884301703d981b2"),
+    "name": "Triple Door Refrigerator",
+    "imagePath": "uploads/categories/5eb0f5780884301703d98188-thumbnail.jpg",
+    "type": "sub-category",
+    "categoryId": ObjectId("5e997a880884301703d8ed22"),
+    "filterCategoryId": ObjectId("5eb0fddb0884301703d98388")
+},
+{
+    "_id": ObjectId("5eb0f62a0884301703d981c1"),
+    "name": "Microwave Ovens",
+    "imagePath": "uploads/categories/5eb0f5850884301703d9818f-thumbnail.jpg",
+    "type": "sub-category",
+    "categoryId": ObjectId("5e997a880884301703d8ed22"),
+    "filterCategoryId": ObjectId("5eb0fdf10884301703d98390")
+},
+{
+    "_id": ObjectId("5eb0fc7f0884301703d9833d"),
+    "name": "Televisions",
+    "type": "filter-category",
+    "categoryId": ObjectId("5e997a880884301703d8ed22"),
+    "noOfMatches": 2
+},
+{
+    "_id": ObjectId("5eb0fdb90884301703d9837b"),
+    "name": "Washing Machines",
+    "type": "filter-category",
+    "categoryId": ObjectId("5e997a880884301703d8ed22"),
+    "noOfMatches": 3
+},
+{
+    "_id": ObjectId("5eb0fdca0884301703d98383"),
+    "name": "Air Conditioners",
+    "type": "filter-category",
+    "categoryId": ObjectId("5e997a880884301703d8ed22"),
+    "noOfMatches": 3
+},
+{
+    "_id": ObjectId("5eb0fddb0884301703d98388"),
+    "name": "Refrigerators",
+    "type": "filter-category",
+    "categoryId": ObjectId("5e997a880884301703d8ed22"),
+    "noOfMatches": 3
+},
+{
+    "_id": ObjectId("5eb0fdf10884301703d98390"),
+    "name": "Kitchen Appliances",
+    "type": "filter-category",
+    "categoryId": ObjectId("5e997a880884301703d8ed22"),
+    "noOfMatches": 1
+}

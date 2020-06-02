@@ -1,0 +1,192 @@
+{
+    "_id": ObjectId("5ea94e020884301703d94509"),
+    "name": "Samsung 65 inch 4K TV",
+    "actualPrice": 120000,
+    "offerPrice": 80000,
+    "imagePath": "uploads/recommendations/5ea7f21f0884301703d933b9-thumbnail.jpg",
+    "type": "new"
+},
+{
+    "_id": ObjectId("5ea94e120884301703d94512"),
+    "name": "Peter England black blazzer",
+    "actualPrice": 12000,
+    "offerPrice": 7000,
+    "imagePath": "uploads/recommendations/5ea7f2660884301703d933d4-thumbnail.jpg",
+    "type": "new"
+},
+{
+    "_id": ObjectId("5ea94e200884301703d9451c"),
+    "name": "Max casual dress set",
+    "actualPrice": 4000,
+    "offerPrice": 2500,
+    "imagePath": "uploads/recommendations/5ea7f2900884301703d933dc-thumbnail.jpg",
+    "type": "new"
+},
+{
+    "_id": ObjectId("5ea94e4e0884301703d9452a"),
+    "name": "Single blue cusion furniture",
+    "actualPrice": 50000,
+    "offerPrice": 45000,
+    "imagePath": "uploads/recommendations/5ea7f2ec0884301703d933f1-thumbnail.jpg",
+    "type": "new"
+},
+{
+    "_id": ObjectId("5ea94e5f0884301703d94534"),
+    "name": "Living room decoration set",
+    "actualPrice": 250000,
+    "offerPrice": 230000,
+    "imagePath": "uploads/recommendations/5ea7f3110884301703d933fb-thumbnail.jpg",
+    "type": "new"
+},
+{
+    "_id": ObjectId("5ea94e730884301703d94539"),
+    "name": "Tree plant for hall",
+    "actualPrice": 8000,
+    "offerPrice": 6500,
+    "imagePath": "uploads/recommendations/5ea7f3320884301703d93404-thumbnail.jpg",
+    "type": "new"
+},
+{
+    "_id": ObjectId("5ea94e840884301703d9453f"),
+    "name": "Lee Cooper leather shoe",
+    "actualPrice": 5000,
+    "offerPrice": 3500,
+    "imagePath": "uploads/recommendations/5ea7f34f0884301703d9340d-thumbnail.jpg",
+    "type": "new"
+},
+{
+    "_id": ObjectId("5ea94e9f0884301703d9454b"),
+    "name": "ID causal shoe pink",
+    "actualPrice": 3000,
+    "offerPrice": 1800,
+    "imagePath": "uploads/recommendations/5ea7f3680884301703d9341a-thumbnail.jpg",
+    "type": "new"
+},
+{
+    "_id": ObjectId("5ea94ece0884301703d94556"),
+    "name": "Samsung 65 inch 4K TV",
+    "actualPrice": 120000,
+    "offerPrice": 80000,
+    "imagePath": "uploads/recommendations/5ea7f21f0884301703d933b9-thumbnail.jpg",
+    "type": "new"
+},
+{
+    "_id": ObjectId("5ea94edd0884301703d94560"),
+    "name": "Peter England black blazzer",
+    "actualPrice": 12000,
+    "offerPrice": 7000,
+    "imagePath": "uploads/recommendations/5ea7f2660884301703d933d4-thumbnail.jpg",
+    "type": "new"
+},
+{
+    "_id": ObjectId("5ea94ef10884301703d94568"),
+    "name": "Max casual dress set",
+    "actualPrice": 4000,
+    "offerPrice": 2500,
+    "imagePath": "uploads/recommendations/5ea7f2900884301703d933dc-thumbnail.jpg",
+    "type": "new"
+},
+{
+    "_id": ObjectId("5ea94efd0884301703d9456e"),
+    "name": "Single blue cusion furniture",
+    "actualPrice": 50000,
+    "offerPrice": 45000,
+    "imagePath": "uploads/recommendations/5ea7f2ec0884301703d933f1-thumbnail.jpg",
+    "type": "new"
+},
+{
+    "_id": ObjectId("5ea94f080884301703d94576"),
+    "name": "Living room decoration set",
+    "actualPrice": 250000,
+    "offerPrice": 230000,
+    "imagePath": "uploads/recommendations/5ea7f3110884301703d933fb-thumbnail.jpg",
+    "type": "featured"
+},
+{
+    "_id": ObjectId("5ea94f130884301703d94580"),
+    "name": "Tree plant for hall",
+    "actualPrice": 8000,
+    "offerPrice": 6500,
+    "imagePath": "uploads/recommendations/5ea7f3320884301703d93404-thumbnail.jpg",
+    "type": "featured"
+},
+{
+    "_id": ObjectId("5ea94f240884301703d94586"),
+    "name": "Lee Cooper leather shoe",
+    "actualPrice": 5000,
+    "offerPrice": 3500,
+    "imagePath": "uploads/recommendations/5ea7f34f0884301703d9340d-thumbnail.jpg",
+    "type": "featured"
+},
+{
+    "_id": ObjectId("5ea94f300884301703d9458b"),
+    "name": "ID causal shoe pink",
+    "actualPrice": 3000,
+    "offerPrice": 1800,
+    "imagePath": "uploads/recommendations/5ea7f3680884301703d9341a-thumbnail.jpg",
+    "type": "featured"
+},
+{
+    "_id": ObjectId("5ea94f3f0884301703d94593"),
+    "name": "Samsung 65 inch 4K TV",
+    "actualPrice": 120000,
+    "offerPrice": 80000,
+    "imagePath": "uploads/recommendations/5ea7f21f0884301703d933b9-thumbnail.jpg",
+    "type": "featured"
+},
+{
+    "_id": ObjectId("5ea94f490884301703d94598"),
+    "name": "Peter England black blazzer",
+    "actualPrice": 12000,
+    "offerPrice": 7000,
+    "imagePath": "uploads/recommendations/5ea7f2660884301703d933d4-thumbnail.jpg",
+    "type": "featured"
+},
+{
+    "_id": ObjectId("5ea94f550884301703d945a6"),
+    "name": "Max casual dress set",
+    "actualPrice": 4000,
+    "offerPrice": 2500,
+    "imagePath": "uploads/recommendations/5ea7f2900884301703d933dc-thumbnail.jpg",
+    "type": "featured"
+},
+{
+    "_id": ObjectId("5ea94f600884301703d945ab"),
+    "name": "Single blue cusion furniture",
+    "actualPrice": 50000,
+    "offerPrice": 45000,
+    "imagePath": "uploads/recommendations/5ea7f2ec0884301703d933f1-thumbnail.jpg",
+    "type": "featured"
+},
+{
+    "_id": ObjectId("5ea94f710884301703d945b0"),
+    "name": "Living room decoration set",
+    "actualPrice": 250000,
+    "offerPrice": 230000,
+    "imagePath": "uploads/recommendations/5ea7f3110884301703d933fb-thumbnail.jpg",
+    "type": "featured"
+},
+{
+    "_id": ObjectId("5ea94f830884301703d945b8"),
+    "name": "Tree plant for hall",
+    "actualPrice": 8000,
+    "offerPrice": 6500,
+    "imagePath": "uploads/recommendations/5ea7f3320884301703d93404-thumbnail.jpg",
+    "type": "featured"
+},
+{
+    "_id": ObjectId("5ea94f8f0884301703d945c1"),
+    "name": "Lee Cooper leather shoe",
+    "actualPrice": 5000,
+    "offerPrice": 3500,
+    "imagePath": "uploads/recommendations/5ea7f34f0884301703d9340d-thumbnail.jpg",
+    "type": "featured"
+},
+{
+    "_id": ObjectId("5ea94f9a0884301703d945c6"),
+    "name": "ID causal shoe pink",
+    "actualPrice": 3000,
+    "offerPrice": 1800,
+    "imagePath": "uploads/recommendations/5ea7f3680884301703d9341a-thumbnail.jpg",
+    "type": "featured"
+}

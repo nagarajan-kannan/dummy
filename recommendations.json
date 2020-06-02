@@ -1,0 +1,64 @@
+{
+    "_id": ObjectId("5ea7f21f0884301703d933b9"),
+    "name": "Samsung 65 inch 4K TV",
+    "actualPrice": 120000,
+    "offerPrice": 80000,
+    "imagePath": "uploads/recommendations/5ea7f21f0884301703d933b9-thumbnail.jpg",
+    "color": "Black"
+},
+{
+    "_id": ObjectId("5ea7f2660884301703d933d4"),
+    "name": "Peter England black blazzer",
+    "actualPrice": 12000,
+    "offerPrice": 7000,
+    "imagePath": "uploads/recommendations/5ea7f2660884301703d933d4-thumbnail.jpg",
+    "color": "Black"
+},
+{
+    "_id": ObjectId("5ea7f2900884301703d933dc"),
+    "name": "Max casual dress set",
+    "actualPrice": 4000,
+    "offerPrice": 2500,
+    "imagePath": "uploads/recommendations/5ea7f2900884301703d933dc-thumbnail.jpg",
+    "color": "Black"
+},
+{
+    "_id": ObjectId("5ea7f2ec0884301703d933f1"),
+    "name": "Single blue cusion furniture",
+    "actualPrice": 50000,
+    "offerPrice": 45000,
+    "imagePath": "uploads/recommendations/5ea7f2ec0884301703d933f1-thumbnail.jpg",
+    "color": "Black"
+},
+{
+    "_id": ObjectId("5ea7f3110884301703d933fb"),
+    "name": "Living room decoration set",
+    "actualPrice": 250000,
+    "offerPrice": 230000,
+    "imagePath": "uploads/recommendations/5ea7f3110884301703d933fb-thumbnail.jpg",
+    "color": "Black"
+},
+{
+    "_id": ObjectId("5ea7f3320884301703d93404"),
+    "name": "Tree plant for hall",
+    "actualPrice": 8000,
+    "offerPrice": 6500,
+    "imagePath": "uploads/recommendations/5ea7f3320884301703d93404-thumbnail.jpg",
+    "color": "Black"
+},
+{
+    "_id": ObjectId("5ea7f34f0884301703d9340d"),
+    "name": "Lee Cooper leather shoe",
+    "actualPrice": 5000,
+    "offerPrice": 3500,
+    "imagePath": "uploads/recommendations/5ea7f34f0884301703d9340d-thumbnail.jpg",
+    "color": "Black"
+},
+{
+    "_id": ObjectId("5ea7f3680884301703d9341a"),
+    "name": "ID causal shoe pink",
+    "actualPrice": 3000,
+    "offerPrice": 1800,
+    "imagePath": "uploads/recommendations/5ea7f3680884301703d9341a-thumbnail.jpg",
+    "color": "Black"
+}
